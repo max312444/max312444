@@ -1,18 +1,23 @@
-## Hi, I'm won jun JO 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&text=&animation=twinkling)
 
-<!-- GitHub 프로필 소개 섹션 -->
-✨ **Welcome to my GitHub profile!** ✨  
-안녕하세요, 저는 **조원준**입니다.  
-현재 **영진전문대학교**에 재학 중이며, 취미는 **음악 감상**입니다.  
-Java와 Python을 활용한 프로젝트를 통해 다양한 도전을 하고 있습니다.  
-이곳에서 제 프로젝트와 공부한 내용을 공유하니 많은 관심 부탁드립니다!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Welcome+to+Won+Jun+JO's+GitHub!👋)](https://git.io/typing-svg)
+
+---
+
+## 👋 自己紹介 | About Me
+
+こんにちは、**조원준（ジョウォンジュン）**です！  
+**ヨンジン専門大学**に在学中で、趣味は**音楽鑑賞**です🎵  
+JavaとPythonのプロジェクトに情熱を持って取り組んでいます💻✨  
+このGitHubでは、私の学習成果とプロジェクトの進捗を共有しています。  
+どうぞよろしくお願いします！🙌
 
 ---
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
 </p>
 
 ---
@@ -20,17 +25,45 @@ Java와 Python을 활용한 프로젝트를 통해 다양한 도전을 하고 �
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://www.instagram.com/weonjun5075/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:and8634@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">✨ Stats ✨</h3>
+<h3 align="center">🔍 プロジェクト | Projects</h3>
+- 🚀 **AIを活用した自動車プロジェクト** - PythonとOpenCVを使用した自動運転  
+- 🔍 **データ解析ツール** - データ視覚化のためのPythonプロジェクト  
+- 🤖 **マシンラーニング** - 機械学習モデルの研究と開発  
+
+---
+
+<h3 align="center">✨ GitHub Stats ✨</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=max312444&show_icons=true&theme=tokyonight"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max312444&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=max312444&show_icons=true&theme=purple&hide_border=true&count_private=true&include_all_commits=true"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max312444&layout=compact&theme=purple&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub トロフィー | GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=max312444&theme=gruvbox_purple&no-frame=true&no-bg=true"/>
+</p>
+
+---
+
+## 📈 貢献グラフ | Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=max312444&theme=high-contrast"/>
+</p>
+
+---
+
+## 👀 プロフィールビュー | Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=max312444&style=for-the-badge&color=8A2BE2" alt="Profile Views"/>
 </p>
