@@ -39,22 +39,16 @@ JavaとPythonのプロジェクトに情熱を持って取り組んでいます�
 
 <h3 align="center">🔍 プロジェクト | Projects</h3>
 
-- 🚀 **AIを活用した自動車プロジェクト** - PythonとOpenCVを使用した自動運転  
-- 🔍 **データ解析ツール** - データ視覚化のためのPythonプロジェクト  
-- 🤖 **マシンラーニング** - 機械学習モデルの研究と開発  
+- 🧍‍♂️ **ストレートネック測定ウェブアプリケーション** – Vue.js + Node.js + Expressを活用したリアルタイム姿勢分析  
+- 🚀 **AIを活用した自律走行RCカーのプロジェクト** – PythonとOpenCVを使用  
+- 🔍 **データ分析ツール** – Pythonで作成した可視化ベースの分析ツール  
+- 🤖 **機械学習モデルの開発** – 各種回帰および分類モデルの研究  
 
 ---
 
 <h3 align="center">✨ GitHub Stats ✨</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=max312444&show_icons=true&theme=purple&hide_border=true&count_private=true&include_all_commits=true"/>
-</p>
-
----
-
-## 🏆 GitHub トロフィー | GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=max312444&theme=gruvbox_purple&no-frame=true&no-bg=true"/>
 </p>
 
 ---
