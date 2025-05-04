@@ -18,6 +18,9 @@ JavaとPythonのプロジェクトに情熱を持って取り組んでいます�
 <p align="center">
   <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-8A2BE2?style=for-the-badge&logo=vue.js&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;
 </p>
 
 ---
@@ -35,6 +38,7 @@ JavaとPythonのプロジェクトに情熱を持って取り組んでいます�
 ---
 
 <h3 align="center">🔍 プロジェクト | Projects</h3>
+
 - 🚀 **AIを活用した自動車プロジェクト** - PythonとOpenCVを使用した自動運転  
 - 🔍 **データ解析ツール** - データ視覚化のためのPythonプロジェクト  
 - 🤖 **マシンラーニング** - 機械学習モデルの研究と開発  
@@ -43,8 +47,7 @@ JavaとPythonのプロジェクトに情熱を持って取り組んでいます�
 
 <h3 align="center">✨ GitHub Stats ✨</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=max312444&show_icons=true&theme=purple&hide_border=true&count_private=true&include_all_commits=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max312444&layout=compact&theme=purple&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=max312444&show_icons=true&theme=purple&hide_border=true&count_private=true&include_all_commits=true"/>
 </p>
 
 ---
