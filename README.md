@@ -15,7 +15,7 @@ Web API を活用したアプリケーション開発、
 実装を通じて技術理解を深めることを大切にしています。
 
 この GitHub では、  
-学習の成果や個人・チーム開発プロジェクトを中心に公開しています。
+学習成果や個人プロジェクトを中心に公開しています。
 
 ---
 
@@ -35,7 +35,7 @@ Web API を活用したアプリケーション開発、
 ### バックエンド
 - Node.js  
 - Express  
-- 基本的な REST API 設計および実装  
+- REST API の基本設計および実装  
 
 ### データ・AI / 機械学習
 - Python を用いたデータ処理
@@ -60,11 +60,11 @@ Web API を活用したアプリケーション開発、
 - API を用いたデータ取得から画面表示までの一連の流れを重視
 - フロントエンドとバックエンドの役割分離を意識した設計
 - 可読性・保守性を意識したコード構成
-- 学習目的に留まらず、実際に動作する形まで実装することを重視
+- 学習目的に留まらず、動作する形まで実装することを重視
 
 ---
 
-<h3 align="center"> プロジェクト | Projects </h3>
+## プロジェクト | Projects
 
 - **ストレートネック測定 Web アプリケーション**  
   Vue.js・Node.js・Express を用いたリアルタイム姿勢分析 Web アプリ
@@ -89,33 +89,26 @@ Web API を活用したアプリケーション開発、
 
 ---
 
-<h3 align="center"> GitHub Stats </h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=max312444&show_icons=true&theme=purple&hide_border=true&count_private=true&include_all_commits=true"/>
-</p>
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=max312444&show_icons=true&theme=purple&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
 ## 貢献グラフ | Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=max312444&theme=high-contrast"/>
-</p>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=max312444&theme=high-contrast)
 
 ---
 
 ## プロフィールビュー | Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=max312444&style=for-the-badge&color=8A2BE2" alt="Profile Views"/>
-</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=max312444&style=for-the-badge&color=8A2BE2)
 
 ---
 
-<h3 align="center"> Contact </h3>
-<p align="center">
-  技術・プロジェクトに関するご連絡は、下記よりお願いいたします。
-</p>
-<p align="center">
-  <a href="mailto:and8634@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
+## Contact
+
+技術・プロジェクトに関するご連絡は、下記よりお願いいたします。
+
+[![Gmail](https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:and8634@gmail.com)
