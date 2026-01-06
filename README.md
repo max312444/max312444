@@ -1,66 +1,121 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&text=&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Welcome+to+Won+Jun+JO's+GitHub!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Welcome+to+Won+Jun+JO's+GitHub!)](https://git.io/typing-svg)
 
 ---
 
-## 👋 自己紹介 | About Me
+## 自己紹介 | About Me
 
-こんにちは、**조원준（ジョウォンジュン）**です！  
-**ヨンジン専門大学**に在学中で、趣味は**音楽鑑賞**です🎵  
-JavaとPythonのプロジェクトに情熱を持って取り組んでいます💻✨  
-このGitHubでは、私の学習成果とプロジェクトの進捗を共有しています。  
-どうぞよろしくお願いします！🙌
+こんにちは、**조원준（ジョ・ウォンジュン）**です。  
+ヨンジン専門大学に在学中で、Web アプリケーションおよび AI 技術を中心に学習しています。
 
----
+Java・Python を用いた基礎的なソフトウェア開発から、  
+Web API を活用したアプリケーション開発、  
+機械学習を用いたデータ処理・分析まで、  
+実装を通じて技術理解を深めることを大切にしています。
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-8A2BE2?style=for-the-badge&logo=vue.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;
-</p>
+この GitHub では、  
+学習の成果や個人・チーム開発プロジェクトを中心に公開しています。
 
 ---
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="https://www.instagram.com/weonjun5075/">
-    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>&nbsp;
-  <a href="mailto:and8634@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
+## 使用可能な技術 | Skills
+
+### プログラミング言語
+- Java  
+- Python  
+- JavaScript  
+- PHP  
+
+### フロントエンド
+- HTML / CSS  
+- JavaScript  
+- Vue.js  
+
+### バックエンド
+- Node.js  
+- Express  
+- 基本的な REST API 設計および実装  
+
+### データ・AI / 機械学習
+- Python を用いたデータ処理
+- 機械学習モデルの基礎（回帰・分類）
+- OpenCV を用いた画像処理
+- CNN を用いた簡単な推論モデル実装
+
+### 外部 API 活用
+- REST API の利用
+- JSON データの取得および加工
+- 複数 API を組み合わせたデータ表示
+
+### 開発ツール・環境
+- Git / GitHub  
+- Visual Studio Code  
+- 基本的な Linux / コマンド操作  
 
 ---
 
-<h3 align="center">🔍 プロジェクト | Projects</h3>
+## 開発スタンス | Engineering Focus
 
-- 🧍‍♂️ **ストレートネック測定ウェブアプリケーション** – Vue.js + Node.js + Expressを活用したリアルタイム姿勢分析  
-- 🚀 **AIを活用した自律走行RCカーのプロジェクト** – PythonとOpenCVを使用  
-- 🔍 **データ分析ツール** – Pythonで作成した可視化ベースの分析ツール  
-- 🤖 **機械学習モデルの開発** – 各種回帰および分類モデルの研究  
+- API を用いたデータ取得から画面表示までの一連の流れを重視
+- フロントエンドとバックエンドの役割分離を意識した設計
+- 可読性・保守性を意識したコード構成
+- 学習目的に留まらず、実際に動作する形まで実装することを重視
 
 ---
 
-<h3 align="center">✨ GitHub Stats ✨</h3>
+<h3 align="center"> プロジェクト | Projects </h3>
+
+- **ストレートネック測定 Web アプリケーション**  
+  Vue.js・Node.js・Express を用いたリアルタイム姿勢分析 Web アプリ
+
+- **AI 自律走行 RC カープロジェクト**  
+  Python・OpenCV・CNN を用いたカメラベースの End-to-End 自律走行システム
+
+- **サッカー情報掲示板 Web アプリケーション**  
+  外部 API を活用したニュース・リーグ順位・試合日程表示 Web サービス
+
+- **データ分析ツール**  
+  Python を用いたデータ可視化および分析処理の実装
+
+---
+
+## 学習中・興味分野
+
+- Web API 設計およびデータ連携
+- フロントエンドとバックエンドをつなぐ Web アプリケーション開発
+- 機械学習を用いた実データ活用
+- 組み込み環境における AI 技術活用
+
+---
+
+<h3 align="center"> GitHub Stats </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=max312444&show_icons=true&theme=purple&hide_border=true&count_private=true&include_all_commits=true"/>
 </p>
 
 ---
 
-## 📈 貢献グラフ | Contribution Graph
+## 貢献グラフ | Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=max312444&theme=high-contrast"/>
 </p>
 
 ---
 
-## 👀 プロフィールビュー | Profile Views
+## プロフィールビュー | Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=max312444&style=for-the-badge&color=8A2BE2" alt="Profile Views"/>
+</p>
+
+---
+
+<h3 align="center"> Contact </h3>
+<p align="center">
+  技術・プロジェクトに関するご連絡は、下記よりお願いいたします。
+</p>
+<p align="center">
+  <a href="mailto:and8634@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
 </p>
